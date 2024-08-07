@@ -19,7 +19,7 @@ export const requestConfig: RequestConfig = {
   // baseURL: 'http://123.207.3.145:8090',
   // baseURL: 'http://www.chen-code.work:8090',
 
-  baseURL: 'http://localhost:8081',
+  baseURL: 'http://117.72.67.208:8081',
   withCredentials: true,
 
   // 请求拦截器
